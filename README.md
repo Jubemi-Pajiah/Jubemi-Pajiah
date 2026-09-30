@@ -1,12 +1,12 @@
 # Hi, I'm Jubemi Pajiah
 
-I'm a software developer and technical team lead, and a published researcher in hydrogeology and environmental geochemistry. I build full-stack web applications and AI-powered features, and I use Python, GIS and machine learning to work on water, flood and environmental data problems.
+I'm a software developer and technical team lead, and a published geoscience researcher. I build full-stack web applications and AI-powered features, and I use Python, GIS and machine learning to work on water, flood and environmental data problems.
 
 Based in Benin City, Nigeria. I work with teams and clients across the US, Nigeria and Canada.
 
 ## What I work on
 
-- **Software:** Full-stack web applications with React, Next.js and Node.js, API design, cloud deployment, and LLM-powered features. I write code and lead the engineering team at Amorserv.
+- **Software:** Full-stack web applications with React, Next.js and Node.js, API design, cloud deployment, and LLM-powered features. I write code and lead the engineering team at AmorServ.
 - **Data and GIS:** Python, scikit-learn, QGIS and ArcGIS Pro for geospatial analysis, statistics and machine learning.
 - **Research:** Groundwater quality, heavy metal contamination, vertical electrical sounding, and geochemistry of sedimentary rocks in Nigeria.
 
@@ -14,7 +14,7 @@ Based in Benin City, Nigeria. I work with teams and clients across the US, Niger
 
 | Project | What it does | Tools |
 | --- | --- | --- |
-| [Lagos flood hotspots](https://github.com/Jubemi-Pajiah/ML-Projects) | Predicts flood-prone zones in Lagos from elevation, rainfall, land cover and population rasters on a 40 m grid. Random Forest model with 98% validation accuracy, and QGIS-ready risk maps. | Python, scikit-learn, QGIS |
+| [Lagos flood hotspots](https://github.com/Jubemi-Pajiah/ML-Projects) | Predicts flood-prone zones in Lagos from elevation, rainfall, land cover and population rasters on a 40 m grid. Random Forest model with 98.2% overall accuracy on a held-out test set (73% recall on flooded pixels), and QGIS-ready risk maps. | Python, scikit-learn, QGIS |
 | [Rock identification](https://github.com/Jubemi-Pajiah/ML-Projects) | Classifies more than 13,000 rock and mineral images into fine-grained rock types and broader geological families using a two-output MobileNetV2 model. | Python, TensorFlow, Keras |
 | [Water quality analysis](https://github.com/Jubemi-Pajiah/water-quality-analysis) | Correlation and K-means cluster analysis, water quality index and pollution index calculations, with elbow and silhouette methods to choose the number of clusters. | Python |
 
