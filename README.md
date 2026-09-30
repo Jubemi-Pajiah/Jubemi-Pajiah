@@ -37,11 +37,11 @@ Based in Benin City, Nigeria. I work with teams and clients across the US, Niger
 
 ## Skills
 
-**Languages:** Python, JavaScript, TypeScript, SQL, R
-**Web:** React, Next.js, Node.js, Express, REST APIs, Tailwind
-**Data and ML:** pandas, NumPy, scikit-learn, TensorFlow, Keras, multivariate statistics (PCA, clustering)
-**GIS:** QGIS, ArcGIS Pro, ArcHydro, remote sensing
-**Tools:** Git, GitHub, Docker, CI/CD
+- **Languages:** Python, JavaScript, TypeScript, SQL, R
+- **Web:** React, Next.js, Node.js, Express, REST APIs, Tailwind
+- **Data and ML:** pandas, NumPy, scikit-learn, TensorFlow, Keras, multivariate statistics (PCA, clustering)
+- **GIS:** QGIS, ArcGIS Pro, ArcHydro, remote sensing
+- **Tools:** Git, GitHub, Docker, CI/CD
 
 ## Find me
 
