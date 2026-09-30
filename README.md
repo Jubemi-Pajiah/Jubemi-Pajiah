@@ -14,9 +14,13 @@ Based in Benin City, Nigeria. I work with teams and clients across the US, Niger
 
 | Project | What it does | Tools |
 | --- | --- | --- |
+| [Lagos Flood Hazard Explorer](https://github.com/Jubemi-Pajiah/lagos-flood-hazard-explorer) ([live demo](https://lagos-flood-hazard-explorer.onrender.com)) | Flood hazard and population exposure model for Lagos: an AHP hazard map built from terrain, rainfall, runoff and land cover, WorldPop exposure by LGA, and rainfall scenarios, served in a Streamlit app. | Python, rasterio, GeoPandas, Streamlit |
 | [Lagos flood hotspots](https://github.com/Jubemi-Pajiah/ML-Projects) | Predicts flood-prone zones in Lagos from elevation, rainfall, land cover and population rasters on a 40 m grid. Random Forest model with 98.2% overall accuracy on a held-out test set (73% recall on flooded pixels), and QGIS-ready risk maps. | Python, scikit-learn, QGIS |
+| [Hydrology forecaster](https://github.com/Jubemi-Pajiah/hydrology-forecaster) | Stochastic hydrology in Python: ARIMA synthetic river-flow records and design floods for the Hadejia River, Nigeria, with a Streamlit app. Built from scratch on NumPy and SciPy. | Python, NumPy, SciPy, Streamlit |
+| [Pipe network analysis](https://github.com/Jubemi-Pajiah/network-node-analysis) ([live demo](https://network-node-analysis.onrender.com/)) | Water distribution network solver using the Nodal Head Correction Method (Newton-Raphson, sparse Jacobian), validated against EPANET, with an interactive web app. | Python, Flask |
+| [Water quality analysis](https://github.com/Jubemi-Pajiah/water-quality-analysis) | Toolkit for water quality index (WQI) and pollution index (WPI) calculations and multivariate analysis of heavy metal data: correlation, K-means, factor analysis and dendrograms. | Python, scikit-learn, pandas |
+| [Geo map generator](https://github.com/Jubemi-Pajiah/geo-map-generator) | Builds location, study area and geologic maps, with an A-A' cross-section, for small borehole surveys from open data. | Python, Matplotlib, OpenStreetMap |
 | [Rock identification](https://github.com/Jubemi-Pajiah/ML-Projects) | Classifies more than 13,000 rock and mineral images into fine-grained rock types and broader geological families using a two-output MobileNetV2 model. | Python, TensorFlow, Keras |
-| [Water quality analysis](https://github.com/Jubemi-Pajiah/water-quality-analysis) | Correlation and K-means cluster analysis, water quality index and pollution index calculations, with elbow and silhouette methods to choose the number of clusters. | Python |
 
 ## Publications
 
